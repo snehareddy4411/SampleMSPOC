@@ -10,9 +10,10 @@ public class EKartCartRepository : IEKartCartRepository
         {
             Id = 1,
             ProductName = "Kiara Guest Chair",
+            ImageUrl = "https://secure.img1-fg.wfcdn.com/im/43738380/resize-h600-w600%5Ecompr-r85/1215/121583674/Jamari+Upholstered+Accent+Chair.jpg",
             UnitPrice = 12000,
             Quantity = 2,
-            GrandTotal = 24000
+            SubTotal = 24000
         });
     }
 
@@ -39,7 +40,8 @@ public class EKartCartRepository : IEKartCartRepository
         if (i >= 0)
         {
             _CartItem[i].ProductName = EKartCartItem.ProductName;
-            _CartItem[i].GrandTotal = EKartCartItem.GrandTotal;
+            _CartItem[i].ImageUrl = EKartCartItem.ImageUrl;
+            _CartItem[i].SubTotal = EKartCartItem.SubTotal;
             _CartItem[i].UnitPrice = EKartCartItem.UnitPrice;
             _CartItem[i].Quantity = EKartCartItem.Quantity;
 
