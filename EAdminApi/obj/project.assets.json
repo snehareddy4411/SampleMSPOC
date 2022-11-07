@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\EkartApi.csproj",
-      "projectName": "EkartApi",
-      "projectPath": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\EkartApi.csproj",
+      "projectUniqueName": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EAdminApi\\EAdminApi.csproj",
+      "projectName": "EAdminApi",
+      "projectPath": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EAdminApi\\EAdminApi.csproj",
       "packagesPath": "C:\\Users\\a.senthilkumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\obj\\",
+      "outputPath": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EAdminApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.senthilkumar\\AppData\\Roaming\\NuGet\\NuGet.Config"

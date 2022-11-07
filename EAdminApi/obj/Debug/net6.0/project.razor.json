@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EKartApi\\EKartApi.csproj",
+  "FilePath": "c:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EAdminApi\\EAdminApi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "EKartApi",
+  "RootNamespace": "EAdminApi",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

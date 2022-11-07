@@ -1,4 +1,4 @@
-namespace EkartApi.Models;
+namespace EAdminApi.Models;
 
 public class EKartProducts
 {

@@ -1,8 +1,8 @@
-using EkartApi.Models;
+using EAdminApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 
-namespace EkartApi.Controllers;
+namespace EAdminApi.Controllers;
 
 [ApiController]
 [Route("[controller]")]

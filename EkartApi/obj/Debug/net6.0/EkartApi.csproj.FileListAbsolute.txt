@@ -25,30 +25,3 @@ C:\Users\a.senthilkumar\Documents\POC Team1 MS\EkartApi\obj\Debug\net6.0\refint\
 C:\Users\a.senthilkumar\Documents\POC Team1 MS\EkartApi\obj\Debug\net6.0\EkartApi.pdb
 C:\Users\a.senthilkumar\Documents\POC Team1 MS\EkartApi\obj\Debug\net6.0\EkartApi.genruntimeconfig.cache
 C:\Users\a.senthilkumar\Documents\POC Team1 MS\EkartApi\obj\Debug\net6.0\ref\EkartApi.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\appsettings.json
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\EkartApi.exe
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\EkartApi.deps.json
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\EkartApi.runtimeconfig.json
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\EkartApi.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\EkartApi.pdb
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.csproj.AssemblyReference.cache
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.AssemblyInfoInputs.cache
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.AssemblyInfo.cs
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.csproj.CoreCompileInputs.cache
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\scopedcss\bundle\EkartApi.styles.css
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.csproj.CopyComplete
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\refint\EkartApi.dll
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.pdb
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.genruntimeconfig.cache
-C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\EkartApi\obj\Debug\net6.0\ref\EkartApi.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKartApi", "EKartApi\EKartApi.csproj", "{79964CB9-B594-453D-ADDB-D7ECCEE7622B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAdminApi", "EAdminApi\EAdminApi.csproj", "{75140434-D862-4330-A6E3-DDB73D4DC937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{79964CB9-B594-453D-ADDB-D7ECCEE7622B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79964CB9-B594-453D-ADDB-D7ECCEE7622B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79964CB9-B594-453D-ADDB-D7ECCEE7622B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75140434-D862-4330-A6E3-DDB73D4DC937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75140434-D862-4330-A6E3-DDB73D4DC937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75140434-D862-4330-A6E3-DDB73D4DC937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75140434-D862-4330-A6E3-DDB73D4DC937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

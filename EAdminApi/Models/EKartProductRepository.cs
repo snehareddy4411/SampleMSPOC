@@ -1,4 +1,4 @@
-using EkartApi.Models;
+using EAdminApi.Models;
 
 public class EKartProductRepository : IEKartProductRepository
 {
