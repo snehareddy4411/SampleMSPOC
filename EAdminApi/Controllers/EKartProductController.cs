@@ -27,7 +27,11 @@ public class EKartProductController : ControllerBase
     public string GetAllProducts(){
         return JsonSerializer.Serialize(_iEKartProductRepository.GetProducts());
     }
-
+    [HttpGet("{id:int}")]
+    public EKartProducts GetProductsById(int id)
+    {
+        return _iEKartProductRepository.GetProductbyId(id);
+    }
 
     [HttpPost]
     public List<EKartProducts> CreateNewEKartProducts(EKartProducts EKartProducts)

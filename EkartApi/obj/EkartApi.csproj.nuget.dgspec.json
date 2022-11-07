@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\EkartApi.csproj": {}
+    "C:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EkartApi\\EkartApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\EkartApi.csproj": {
+    "C:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EkartApi\\EkartApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\EkartApi.csproj",
+        "projectUniqueName": "C:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EkartApi\\EkartApi.csproj",
         "projectName": "EkartApi",
-        "projectPath": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\EkartApi.csproj",
+        "projectPath": "C:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EkartApi\\EkartApi.csproj",
         "packagesPath": "C:\\Users\\a.senthilkumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.senthilkumar\\Documents\\POC Team1 MS\\EkartApi\\obj\\",
+        "outputPath": "C:\\Users\\a.senthilkumar\\Documents\\Team1 Git\\SampleMSPOC\\SampleMSPOC\\EkartApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.senthilkumar\\AppData\\Roaming\\NuGet\\NuGet.Config"

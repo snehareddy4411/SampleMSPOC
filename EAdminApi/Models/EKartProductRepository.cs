@@ -64,6 +64,14 @@ public class EKartProductRepository : IEKartProductRepository
         return _Products;
 
     }
+    public EKartProducts GetProductbyId(int id){
+        EKartProducts product = new EKartProducts();
+        var result = _Products.Where(p => p.Id == id).FirstOrDefault();
+        if (result != null)
+            return result;
+        else
+            return product;
+    }
 
     public List<EKartProducts> UpdateProduct(EKartProducts EKartProducts)
     {

@@ -21,6 +21,15 @@ public class EKartCartRepository : IEKartCartRepository
     {
         return _CartItem;
     }
+
+    public EKartCartItem GetCartItembyId(int id){
+        EKartCartItem cartItem = new EKartCartItem();
+        var result = _CartItem.Where(p => p.Id == id).FirstOrDefault();
+        if (result != null)
+            return result;
+        else
+            return cartItem;
+    }
     public List<EKartCartItem> CreateCartItem(EKartCartItem EKartCartItem)
     {
         int NoOfRecords = _CartItem.Count();
