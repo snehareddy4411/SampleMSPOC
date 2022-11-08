@@ -48,5 +48,11 @@ public class EKartCartController : ControllerBase
     {
         return _IEkartCartRepository.DeleteCartItem(id);
     }
+
+    [HttpGet("CartLength")]
+    public int CartLength()
+    {
+        return _IEkartCartRepository.CartLength();
+    }
     
 }

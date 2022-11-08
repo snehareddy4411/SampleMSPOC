@@ -69,4 +69,9 @@ public class EKartCartRepository : IEKartCartRepository
         return _CartItem;
     }
 
+    public int CartLength()
+    {
+       return _CartItem.Count();
+    }
+
 }

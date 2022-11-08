@@ -8,4 +8,6 @@ public interface IEKartCartRepository
     List<EKartCartItem> DeleteCartItem(int id);
 
     EKartCartItem GetCartItembyId(int id);
+
+    int CartLength();
 }
