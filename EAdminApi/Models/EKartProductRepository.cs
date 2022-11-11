@@ -13,7 +13,7 @@ public class EKartProductRepository : IEKartProductRepository
             ImageUrl = "https://secure.img1-fg.wfcdn.com/im/43738380/resize-h600-w600%5Ecompr-r85/1215/121583674/Jamari+Upholstered+Accent+Chair.jpg",
             ProductType = "Chair",
             Price = 12000,
-            Description = "A Hybrid between a Chair and Sofa, Lounge Chair is not as heavy as a sofa or as lightweight as a chair either. Its slightly reclined back lets you lean back in style."
+            Description = "A Hybrid between a Chair, Lounge Chair is not as heavy as lightweight as a chair either. Its slightly reclined back lets you lean back in style."
 
         });
         _Products.Add(new EKartProducts
@@ -23,7 +23,7 @@ public class EKartProductRepository : IEKartProductRepository
             ImageUrl = "https://cdn.stocksnap.io/img-thumbs/280h/interior-chair_E3PW2UR6AE.jpg",
             ProductType = "Chair",
             Price = 15000,
-            Description = "Lounge Chair is not as heavy as a sofa or as lightweight as a chair either. Its slightly reclined back lets you lean back in style."
+            Description = "Lounge Chair is not as heavy or as lightweight as a chair either. Its slightly reclined back lets you lean back in style."
 
         });
         _Products.Add(new EKartProducts
@@ -44,7 +44,6 @@ public class EKartProductRepository : IEKartProductRepository
             ProductType = "Sofa",
             Price = 12000,
             Description = "Mintwud was conceptualized for compact homes which demand intelligent designs for small spaces, befitting modern lifestyles"
-
         });
     }
 
