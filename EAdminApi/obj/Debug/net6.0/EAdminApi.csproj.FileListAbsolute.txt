@@ -52,3 +52,38 @@ C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EAdminApi\ob
 C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EAdminApi\obj\Debug\net6.0\EAdminApi.pdb
 C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EAdminApi\obj\Debug\net6.0\EAdminApi.genruntimeconfig.cache
 C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EAdminApi\obj\Debug\net6.0\ref\EAdminApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\appsettings.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\EAdminApi.exe
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\EAdminApi.deps.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\EAdminApi.runtimeconfig.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\EAdminApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\EAdminApi.pdb
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.csproj.AssemblyReference.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.AssemblyInfoInputs.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.AssemblyInfo.cs
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.csproj.CoreCompileInputs.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\scopedcss\bundle\EAdminApi.styles.css
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.csproj.CopyComplete
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\refint\EAdminApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.pdb
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\EAdminApi.genruntimeconfig.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\obj\Debug\net6.0\ref\EAdminApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\NuGet.Config
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EAdminApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

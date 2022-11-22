@@ -52,3 +52,37 @@ C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EkartApi\obj
 C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.pdb
 C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EkartApi\obj\Debug\net6.0\EkartApi.genruntimeconfig.cache
 C:\Users\a.senthilkumar\Documents\Team1 Git\SampleMSPOC\SampleMSPOC\EkartApi\obj\Debug\net6.0\ref\EkartApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\appsettings.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\EkartApi.exe
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\EkartApi.deps.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\EkartApi.runtimeconfig.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\EkartApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\EkartApi.pdb
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.csproj.AssemblyReference.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.AssemblyInfoInputs.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.AssemblyInfo.cs
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.csproj.CoreCompileInputs.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\scopedcss\bundle\EkartApi.styles.css
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.csproj.CopyComplete
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\refint\EkartApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.pdb
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\EkartApi.genruntimeconfig.cache
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\obj\Debug\net6.0\ref\EkartApi.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sneha.a.reddy\FirstSamplePOC\EkartApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

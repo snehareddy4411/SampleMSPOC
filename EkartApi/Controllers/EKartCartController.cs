@@ -1,11 +1,13 @@
 using EkartApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EkartApi.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+[Authorize]
 
 public class EKartCartController : ControllerBase
 {

@@ -1,6 +1,7 @@
 using EAdminApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EAdminApi.Controllers;
 
@@ -33,17 +34,21 @@ public class EKartProductController : ControllerBase
         return _iEKartProductRepository.GetProductbyId(id);
     }
 
+    [Authorize]
     [HttpPost]
     public List<EKartProducts> CreateNewEKartProducts(EKartProducts EKartProducts)
     {
         return _iEKartProductRepository.CreateProduct(EKartProducts);
     }
     
+    [Authorize]
     [HttpPut]
     public List<EKartProducts> UpdateEKartProducts(EKartProducts EKartProducts)
     {
         return _iEKartProductRepository.UpdateProduct(EKartProducts);
     }
+
+    [Authorize]
     [HttpDelete("{id:int}")]
     public List<EKartProducts> DeleteEKartProducts(int id)
     {

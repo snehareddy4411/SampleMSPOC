@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -18,6 +20,37 @@ builder.Services.AddCors(options =>
     }
     );
 });
+
+builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+
+            }).AddJwtBearer(o =>
+            {
+                o.Authority = "http://localhost:8080/auth/realms/TeamOne";
+                o.Audience = "account";
+                o.RequireHttpsMetadata = false;
+
+                o.Events = new JwtBearerEvents()
+                {
+                    OnAuthenticationFailed = c =>
+                    {
+                        c.NoResult();
+
+                        c.Response.StatusCode = 500;
+                        c.Response.ContentType = "text/plain";
+
+                        //if (Environment.IsDevelopment())
+                        //{
+                            return c.Response.WriteAsync(c.Exception.ToString());
+                        //}
+
+                        //return c.Response.WriteAsync("An error occured processing your authentication.");
+                    }
+                };
+            });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,9 +60,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 app.UseCors("MyOrigins");
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
-
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 

@@ -1,0 +1,29 @@
+version: '3.4'
+
+services:  
+  envoygateway:
+    build: Envoy/
+    ports:
+      - "9901:9901"
+      - "10000:10000"
+    volumes:
+      - ./Envoy/envoy.yaml:/etc/envoy/envoy.yaml
+
+  eadminapi:
+    ports:
+      - "5262:80"
+    build:
+      context: ./EAdminApi
+      dockerfile: Dockerfile
+
+  ekartapi:
+    ports:
+      - "5005:80"
+    build:
+      context: ./EkartApi
+      dockerfile: Dockerfile
+
+ 
+
+
+  
